@@ -16,8 +16,8 @@
       "index",
       "inline"
     ],
-    "website": "https://github.com/AM-ROBOTS/AM-ROBOTS",
-    "repository": "https://github.com/AM-ROBOTS/AM-ROBOTS",
+    "website": "https://github.com/skmachra/moviesearch",
+    "repository": "https://github.com/skmachra/moviesearch",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
